@@ -10,7 +10,9 @@ class Program{
         while(n>0){
             n = Convert.ToInt32(Console.ReadLine());
             if(n%10 == 0){
-                n = n/10;
+                while(n%10 == 0){
+                    n = n/10;
+                }
             }
             if(n<=0){
                 break;
