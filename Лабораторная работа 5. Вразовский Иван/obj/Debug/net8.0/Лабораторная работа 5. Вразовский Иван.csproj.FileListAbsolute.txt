@@ -1,0 +1,14 @@
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\bin\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.exe
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\bin\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.deps.json
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\bin\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.runtimeconfig.json
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\bin\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.dll
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\bin\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.pdb
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\obj\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\obj\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.AssemblyInfoInputs.cache
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\obj\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.AssemblyInfo.cs
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\obj\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.csproj.CoreCompileInputs.cache
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\obj\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.dll
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\obj\Debug\net8.0\refint\Лабораторная работа 5. Вразовский Иван.dll
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\obj\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.pdb
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\obj\Debug\net8.0\Лабораторная работа 5. Вразовский Иван.genruntimeconfig.cache
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 5. Вразовский Иван\obj\Debug\net8.0\ref\Лабораторная работа 5. Вразовский Иван.dll
