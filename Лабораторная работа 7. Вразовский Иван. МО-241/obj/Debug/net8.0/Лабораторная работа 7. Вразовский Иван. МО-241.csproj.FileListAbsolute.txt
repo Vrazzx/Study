@@ -1,12 +1,12 @@
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.AssemblyInfoInputs.cache
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.AssemblyInfo.cs
+D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.csproj.CoreCompileInputs.cache
 D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\bin\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.exe
 D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\bin\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.deps.json
 D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\bin\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.runtimeconfig.json
 D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\bin\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.dll
 D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\bin\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.pdb
-D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.GeneratedMSBuildEditorConfig.editorconfig
-D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.AssemblyInfoInputs.cache
-D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.AssemblyInfo.cs
-D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.csproj.CoreCompileInputs.cache
 D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.dll
 D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\obj\Debug\net8.0\refint\Лабораторная работа 7. Вразовский Иван. МО-241.dll
 D:\Users\Ivan\Desktop\Code\АиП\Лабораторная работа 7. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 7. Вразовский Иван. МО-241.pdb
