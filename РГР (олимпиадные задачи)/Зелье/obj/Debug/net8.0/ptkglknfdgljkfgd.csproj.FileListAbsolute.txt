@@ -1,0 +1,14 @@
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\bin\Debug\net8.0\ptkglknfdgljkfgd.exe
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\bin\Debug\net8.0\ptkglknfdgljkfgd.deps.json
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\bin\Debug\net8.0\ptkglknfdgljkfgd.runtimeconfig.json
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\bin\Debug\net8.0\ptkglknfdgljkfgd.dll
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\bin\Debug\net8.0\ptkglknfdgljkfgd.pdb
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\obj\Debug\net8.0\ptkglknfdgljkfgd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\obj\Debug\net8.0\ptkglknfdgljkfgd.AssemblyInfoInputs.cache
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\obj\Debug\net8.0\ptkglknfdgljkfgd.AssemblyInfo.cs
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\obj\Debug\net8.0\ptkglknfdgljkfgd.csproj.CoreCompileInputs.cache
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\obj\Debug\net8.0\ptkglknfdgljkfgd.dll
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\obj\Debug\net8.0\refint\ptkglknfdgljkfgd.dll
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\obj\Debug\net8.0\ptkglknfdgljkfgd.pdb
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\obj\Debug\net8.0\ptkglknfdgljkfgd.genruntimeconfig.cache
+D:\Users\Ivan\Desktop\ptkglknfdgljkfgd\obj\Debug\net8.0\ref\ptkglknfdgljkfgd.dll

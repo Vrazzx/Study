@@ -1,0 +1,14 @@
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\bin\Debug\net8.0\Задача 2. Молоко.exe
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\bin\Debug\net8.0\Задача 2. Молоко.deps.json
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\bin\Debug\net8.0\Задача 2. Молоко.runtimeconfig.json
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\bin\Debug\net8.0\Задача 2. Молоко.dll
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\bin\Debug\net8.0\Задача 2. Молоко.pdb
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\obj\Debug\net8.0\Задача 2. Молоко.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\obj\Debug\net8.0\Задача 2. Молоко.AssemblyInfoInputs.cache
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\obj\Debug\net8.0\Задача 2. Молоко.AssemblyInfo.cs
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\obj\Debug\net8.0\Задача 2. Молоко.csproj.CoreCompileInputs.cache
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\obj\Debug\net8.0\Задача 2. Молоко.dll
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\obj\Debug\net8.0\refint\Задача 2. Молоко.dll
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\obj\Debug\net8.0\Задача 2. Молоко.pdb
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\obj\Debug\net8.0\Задача 2. Молоко.genruntimeconfig.cache
+D:\Users\Ivan\Desktop\Code\АиП\РГР (олимпиадные задачи)\Задача 2. Молоко\obj\Debug\net8.0\ref\Задача 2. Молоко.dll
