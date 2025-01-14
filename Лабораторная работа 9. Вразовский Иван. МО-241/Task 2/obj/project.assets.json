@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Ivan\\Desktop\\Code\\АиП\\Лабораторная работа 8. Вразовский Иван. МО-241\\Лабораторная работа 8. Вразовский Иван. МО-241.csproj",
-      "projectName": "Лабораторная работа 8. Вразовский Иван. МО-241",
-      "projectPath": "D:\\Users\\Ivan\\Desktop\\Code\\АиП\\Лабораторная работа 8. Вразовский Иван. МО-241\\Лабораторная работа 8. Вразовский Иван. МО-241.csproj",
+      "projectUniqueName": "D:\\Users\\Ivan\\Desktop\\Code\\АиП\\Лабораторная работа 8. Вразовский Иван. МО-241\\Task 2\\Task 2.csproj",
+      "projectName": "Task 2",
+      "projectPath": "D:\\Users\\Ivan\\Desktop\\Code\\АиП\\Лабораторная работа 8. Вразовский Иван. МО-241\\Task 2\\Task 2.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Ivan\\Desktop\\Code\\АиП\\Лабораторная работа 8. Вразовский Иван. МО-241\\obj\\",
+      "outputPath": "D:\\Users\\Ivan\\Desktop\\Code\\АиП\\Лабораторная работа 8. Вразовский Иван. МО-241\\Task 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config"
