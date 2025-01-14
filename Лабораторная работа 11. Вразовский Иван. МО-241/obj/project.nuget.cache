@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "oNBQtOurstY=",
+  "dgSpecHash": "mgjUGWKwZQ8=",
   "success": true,
-  "projectFilePath": "D:\\Users\\Ivan\\Desktop\\Code\\АиП\\Лабораторная работа 10. Вразовский Иван. МО-241\\Лабораторная работа 10. Вразовский Иван. МО-241.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\Studu AAP\\Лабораторные работы\\Лабораторная работа 11. Вразовский Иван. МО-241\\Лабораторная работа 10. Вразовский Иван. МО-241.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

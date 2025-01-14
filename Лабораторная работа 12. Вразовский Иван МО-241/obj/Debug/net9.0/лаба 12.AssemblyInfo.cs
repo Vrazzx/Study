@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Лабораторная работа 10. Вразовский Иван. МО-241")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("лаба 12")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e07dc3eaeec7e82774429363e85e1b577d3cf697")]
-[assembly: System.Reflection.AssemblyProductAttribute("Лабораторная работа 10. Вразовский Иван. МО-241")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Лабораторная работа 10. Вразовский Иван. МО-241")]
+[assembly: System.Reflection.AssemblyProductAttribute("лаба 12")]
+[assembly: System.Reflection.AssemblyTitleAttribute("лаба 12")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -1,10 +1,10 @@
 ﻿using System;
 class Planet
 {
-    public string Name { get; }
-    public double DistanceFromCenter { get; }
-    public double Diameter { get; }
-    public int NumbersOfMoon { get; }
+    public string Name;
+    public double DistanceFromCenter;
+    public double Diameter;
+    public int NumbersOfMoon;
 
     public Planet(string name, double distanceFromCenter, double diameter, int numbersOfMoon)
     {
