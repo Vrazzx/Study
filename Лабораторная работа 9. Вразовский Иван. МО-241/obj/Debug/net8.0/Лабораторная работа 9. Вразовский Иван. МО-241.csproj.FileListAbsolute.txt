@@ -1,0 +1,5 @@
+C:\Users\Ivan\Desktop\Studu AAP\Лабораторные работы\Лабораторная работа 9. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 9. Вразовский Иван. МО-241.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Studu AAP\Лабораторные работы\Лабораторная работа 9. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 9. Вразовский Иван. МО-241.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Studu AAP\Лабораторные работы\Лабораторная работа 9. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 9. Вразовский Иван. МО-241.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Studu AAP\Лабораторные работы\Лабораторная работа 9. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 9. Вразовский Иван. МО-241.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Studu AAP\Лабораторные работы\Лабораторная работа 9. Вразовский Иван. МО-241\obj\Debug\net8.0\Лабораторная работа 9. Вразовский Иван. МО-241.sourcelink.json

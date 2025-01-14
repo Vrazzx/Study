@@ -35,13 +35,10 @@ public class MyClass
     
 }
  
-class Program
+class Code
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Введите две переменные");
-        int a = int.Parse(Console.ReadLine());
-        int b = int.Parse(Console.ReadLine());
         MyClass obj1 = new MyClass();
         int a = int.Parse(Console.ReadLine());
         MyClass obj2 = new MyClass(a);
