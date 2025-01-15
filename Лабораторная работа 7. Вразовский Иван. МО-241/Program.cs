@@ -99,6 +99,8 @@ class Program{
             System.Console.WriteLine("Сумма элементов всех столбцов четна.");
         }
 
+    
+    }
     static void SwapMinMax(int[,] array)
     {
         int min = array[0, 0];
@@ -130,7 +132,6 @@ class Program{
         int temp = array[minRow, minCol];
         array[minRow, minCol] = array[maxRow, maxCol];
         array[maxRow, maxCol] = temp;
-    }
     }
 }
 
