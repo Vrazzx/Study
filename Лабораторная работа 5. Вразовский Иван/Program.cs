@@ -39,17 +39,18 @@ class HelloWorld {
       
       
       
-      int[] sortNums = GroupWithoutSorting(resNum);
+      
       
       //1
-      bool checkExOne = CheckExOne(sortNums);
+      bool checkExOne = CheckExOne(resNum);
       Console.WriteLine(checkExOne ? "Массив равномерно возрастающий" : "Массив не возрастающий");
       
 
       //3
-      bool checkExTwo = CheckExTwo(sortNums);
+      bool checkExTwo = CheckExTwo(resNum);
       Console.WriteLine(checkExTwo ? "Массив содержит положительный чётный элемент на нечентом месте" : "Массив не содержит положительный чётный элемент на нечентом месте");
       
+      int[] sortNums = GroupWithoutSorting(resNum);
       
       
       Console.WriteLine("Итоговый массив");
@@ -89,7 +90,7 @@ class HelloWorld {
   }
 
   static int[] GroupWithoutSorting(int[] arr)
-  {
+{
     int n = arr.Length;
     int[] groupedArr = new int[n];
 
@@ -124,6 +125,6 @@ class HelloWorld {
     }
 
     return groupedArr;
-  }
+}
 
 }
