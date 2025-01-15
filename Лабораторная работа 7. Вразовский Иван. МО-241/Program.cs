@@ -20,9 +20,9 @@ class Program{
             {
                 Console.Write(array[i, j] + " ");
             }
-            Console.WriteLine();  // Перевод строки после вывода одной строки массива
+            Console.WriteLine();  
         }
-        // Проход по всем строкам и сравнение их сумм
+        
         for (int i = 0; i < rows; i++)
         {
             int sum1 = 0;
@@ -31,7 +31,7 @@ class Program{
             int product1 = 1;
             
 
-            // Суммируем элементы первой строки
+            
             for (int j = 0; j < columns; j++)
             {
                 sum1 += array[i, j];
@@ -43,15 +43,15 @@ class Program{
                 product1 *= array[i, j];
             }
 
-            // Сравниваем с другими строками
-            for (int k = i + 1; k < rows; k++) // Сравниваем только с последующими строками
+            
+            for (int k = i + 1; k < rows; k++) 
             {
                 int sum2 = 0;
                 int sumSq2 = 0;
                 int zeroCount2 = 0;
                 int product2 = 1;
 
-                // Суммируем элементы второй строки
+                
                 for (int j = 0; j < columns; j++)
                 {
                     sum2 += array[k, j];
@@ -63,7 +63,7 @@ class Program{
                     product2 *= array[k, j];
                 }
 
-                // Если суммы одинаковые, выводим их
+                
                 if (sum1 == sum2 && sumSq1 == sumSq2 && zeroCount1 == zeroCount2 && product1 == product2)
                 {
                     Console.WriteLine($"строки {i+1}, {k+1}");
@@ -72,13 +72,13 @@ class Program{
             }
             
         }
-        for (int j = 0; j < columns; j++)  // Перебор столбцов
+        for (int j = 0; j < columns; j++)  
             {
-                int columnSum = 0;  // Инициализация переменной для суммы столбца
+                int columnSum = 0;  
 
-                for (int i = 0; i < rows; i++)  // Перебор строк
+                for (int i = 0; i < rows; i++)  
                 {
-                    columnSum += array[i, j];  // Добавление элемента столбца к сумме
+                    columnSum += array[i, j];  
                 }
                 if(columnSum % 2 == 0){
                     Console.WriteLine($"Сумма столбца {j}: {columnSum}, четная");
