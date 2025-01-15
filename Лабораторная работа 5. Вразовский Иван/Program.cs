@@ -89,7 +89,7 @@ class HelloWorld {
   }
 
   static int[] GroupWithoutSorting(int[] arr)
-{
+  {
     int n = arr.Length;
     int[] groupedArr = new int[n];
 
@@ -124,6 +124,6 @@ class HelloWorld {
     }
 
     return groupedArr;
-}
+  }
 
 }
