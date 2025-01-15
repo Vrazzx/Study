@@ -1,38 +1,39 @@
-﻿class Program
+using System;
+
+class Program
 {
-    static void Main()
-    {
-        Console.WriteLine("Введите строку:");
-        string input = Console.ReadLine().ToUpper();
+    static void Main()
+    {
+        Console.WriteLine("Введите строку:");
+        string input = Console.ReadLine().ToUpper(); 
 
-        string searchString = "XYZ";
-        int count = 0;
+        int maxLength = 0;
+        int currentLength = 0;
+        string sub = "XYZ"; 
+        int subIndex = 0;
 
-        
-        int length = input.Length;
+        foreach (char c in input)
+        {
+            if (c == sub[subIndex]) 
+            {
+                currentLength++;
+                subIndex = (subIndex + 1) % sub.Length; 
+            }
+            else if (c == 'x') 
+            {
+                currentLength = 1;
+                subIndex = 1; 
+            }
+            else
+            {
+                currentLength = 0; 
+                subIndex = 0;
+            }
 
-        
-        for (int i = 0; i <= length - searchString.Length; i++)
-        {
-            
-            if (input.Substring(i, searchString.Length) == searchString)
-            {
-                count++;
-            }
-        }
-        if (length == 1 && input[length - 1] == 'X')
-        {
-            count++;
-        }
-        else
-        {
-            if (length >= 2 && (input[length - 1] == 'X' || (input[length - 2] == 'X' && input[length - 1] == 'Y')))
-            {
-                count++;
-            }
+            maxLength = Math.Max(maxLength, currentLength); 
+        }
 
-        }
-
-        Console.WriteLine($"Подстрока 'XYZ' встречается {count} раз(а).");
-    }
+        Console.WriteLine($"Наибольшая длина подпоследовательности: {maxLength}");
+    }
 }
+
