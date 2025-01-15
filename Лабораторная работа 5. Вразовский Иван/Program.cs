@@ -88,7 +88,7 @@ class HelloWorld {
         int n = arr.Length;
         int[] sortedArr = new int[n];
 
-        // Найдем максимальное и минимальное значение в массиве
+        
         int min = arr[0];
         int max = arr[0];
         for (int i = 1; i < n; i++)
@@ -97,17 +97,17 @@ class HelloWorld {
             if (arr[i] > max) max = arr[i];
         }
 
-        // Создаем массив для подсчета количества каждого элемента
+        
         int range = max - min + 1;
         int[] count = new int[range];
 
-        // Подсчитываем количество повторяющихся элементов
+        
         for (int i = 0; i < n; i++)
         {
             count[arr[i] - min]++;
         }
 
-        // Заполняем упорядоченный массив
+        
         int index = 0;
         for (int i = 0; i < range; i++)
         {
